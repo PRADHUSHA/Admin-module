@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fluentui/font-icons-mdl2": "8.4.2",
+    "@fluentui/react": "8.77.3",
+    "@fluentui/react-hooks": "^8.6.0",
+    "@fluentui/theme": "2.6.6",
+    "@types/react": "17.0.47",
+    "@types/react-dom": "17.0.17",
+    "fluent": "0.13.0",
+    "null": "2.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "typescript": "4.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
